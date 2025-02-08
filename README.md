@@ -9,5 +9,5 @@ path = kagglehub.dataset_download("techsash/waste-classification-data")
 
 print("Path to dataset files:", path)
 
-Streamlit app link is below:
+Streamlit app link :
 https://wasteclassificationusingcnn.streamlit.app/
